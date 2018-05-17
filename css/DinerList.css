@@ -51,16 +51,15 @@ label{
 .table{
     margin: 30px 25%;
     width: 50%;
-    border-collapse: collapse;
  }
 .bon{
     color: #E36E7F;
     background-color: #4A4F56;
     text-align: center;
     font-family: "Trebuchet MS";
-    line-height: 60px;
-    width: 50%;
-    margin: 30px 25%;
+    line-height: 56px;
+    width: 708px;
+    margin: 30px 412px;
     font-size: 30px;
 }
 span:before{
@@ -84,6 +83,7 @@ input:checked+label .span{
     color: #A3A0B5;
     font-weight: 100;
 }
-
-
+li {
+    list-style-type: none;
+}
 
